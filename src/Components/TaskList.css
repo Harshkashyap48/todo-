@@ -1,0 +1,23 @@
+.TaskContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.TaskContainer li {
+    display: flex;
+  justify-content: space-between; 
+  align-items: center;
+  padding: 10px;
+   
+}
+.TaskContainer button{
+    margin-left: 10px; 
+  cursor: pointer;
+  background-color: #dc3545; 
+  color: #fff;
+  border: none; 
+  border-radius: 5px;
+  padding: 5px 10px; 
+}

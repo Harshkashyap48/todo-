@@ -1,0 +1,12 @@
+form {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    margin-right: 10px;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+
